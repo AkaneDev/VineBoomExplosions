@@ -5,7 +5,7 @@ The Vine Boom Explosions Resource Pack replaces the default explosion sounds in 
 
 ## Features
 - Replaces all explosion sounds with the "Vine Boom" sound effect.
-- Compatible with Minecraft version 1.17 and above.
+- Compatible with Minecraft version 1.21.4-pre1 and above.
 - Easy to install and use.
 
 ## Installation
@@ -16,7 +16,7 @@ The Vine Boom Explosions Resource Pack replaces the default explosion sounds in 
 5. Enjoy the new explosion sounds!
 
 ## Compatibility
-- Minecraft Java Edition 1.17+
+- Minecraft Java Edition 1.21.4-pre1+
 - May not be compatible with other resource packs that modify explosion sounds.
 
 ## Credits
