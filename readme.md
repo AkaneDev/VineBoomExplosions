@@ -3,6 +3,13 @@
 ## Description
 The Vine Boom Explosions Resource Pack replaces the default explosion sounds in Minecraft with the iconic "Vine Boom" sound effect. This pack adds a humorous and entertaining twist to your Minecraft experience.
 
+## Notice
+This Changes the following explosion sounds
+- Creeper
+- TnT
+- Thunder from lightning bolts
+as they all use the same files
+
 ## Features
 - Replaces all explosion sounds with the "Vine Boom" sound effect.
 - Compatible with Minecraft version 1.21.4-pre1 and above.
