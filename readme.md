@@ -9,7 +9,7 @@ The Vine Boom Explosions Resource Pack replaces the default explosion sounds in 
 - Easy to install and use.
 
 ## Installation
-1. Download the `VineBoomExplosions.zip` file from the [releases page](https://github.com/akanedev).
+1. Download the `VineBoomExplosions.zip` file from the [releases page](https://github.com/AkaneDev/VineBoomExplosions/releases/download/v1.0.0/VineBoomExplosions.zip).
 2. Open Minecraft and go to `Options` > `Resource Packs`.
 3. Click on `Open Pack Folder` and move the `VineBoomExplosions.zip` file into the folder.
 4. Go back to Minecraft and enable the Vine Boom Explosions Resource Pack.
